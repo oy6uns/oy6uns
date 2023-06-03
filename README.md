@@ -1,16 +1,17 @@
 ### Hi there 👋
+##### 📖 I’m currently learning ...<br>
+![python] ![pytorch] <br>
+![fastAPI] ![EC2] <br>
+![iOS] ![Swift] ![Xcode]
 
-<!--
-**oy6uns/oy6uns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![sungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oy6uns&show_icons=true&theme=swift)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[python]: https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+[pytorch]: https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
+[fastAPI]: https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
+[EC2]: https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white
+<!-- [S3]: -->
+[iOS]: https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white
+[Swift]: https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white
+[Xcode]: https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white
