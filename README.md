@@ -1,7 +1,7 @@
 ### Hi there 👋
 ##### 📖 I’m currently learning ...<br>
 ![python] ![pytorch] <br>
-![fastAPI] ![EC2] <br>
+![fastAPI] <br>
 ![iOS] ![Swift] ![Xcode] <br>
 
 ![sungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oy6uns&show_icons=true&theme=swift)
