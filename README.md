@@ -2,8 +2,7 @@
 ##### 📖 I’m currently learning ...<br>
 ![python] ![pytorch] &nbsp; ![fastAPI] <br>
 ![iOS] ![Swift] ![Xcode] <br>
-
-![sungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oy6uns&show_icons=true&theme=swift)
+<!-- ![sungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oy6uns&show_icons=true&theme=swift) -->
 
 [python]: https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
 [pytorch]: https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
