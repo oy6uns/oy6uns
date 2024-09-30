@@ -1,9 +1,18 @@
-### Hi there 👋
-##### 📖 I’m currently learning ...<br>
+## Hi there 👋
+I am a graduate student specializing in ***RDBMS*** and ***Data Lakehouse systems***, <br>
+with a focus on understanding and improving ***modern data management*** and ***storage architectures***.
+
+#### 📖 I’m currently learning ...<br>
+![C] ![C++] 
+
+#### Techs that I've used at least once
 ![python] ![pytorch] &nbsp; ![fastAPI] <br>
 ![iOS] ![Swift] ![Xcode] <br>
 <!-- ![sungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oy6uns&show_icons=true&theme=swift) -->
 
+
+[C]: https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white
+[C++]: https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white 
 [python]: https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
 [pytorch]: https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
 [fastAPI]: https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
