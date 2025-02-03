@@ -1,12 +1,10 @@
 ## Hi there 👋
-I am a graduate student specializing in ***RDBMS*** and ***Data Lakehouse systems***, <br>
-with a focus on understanding and improving ***modern data management*** and ***storage architectures***.
 
 #### ✏️ Currently using and interested in development languages ...<br>
-![C] ![C++] 
+![python] ![C] ![C++] 
 
 #### 🐾 Techs that I've used at least once
-![python] ![pytorch] &nbsp; ![fastAPI] <br>
+![pytorch] &nbsp; ![fastAPI] <br>
 ![iOS] ![Swift] ![Xcode] <br>
 <!-- ![sungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=oy6uns&show_icons=true&theme=swift) -->
 
