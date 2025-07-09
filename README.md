@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### ✏️ Currently using and interested in development languages ...<br>
-![python] ![C] ![C++] 
+![python]
 
 #### 🐾 Techs that I've used at least once
 ![pytorch] &nbsp; ![fastAPI] <br>
